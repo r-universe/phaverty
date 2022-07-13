@@ -8,3 +8,8 @@
 	url = https://github.com/phaverty/bigmemoryextras
 	shallow = true
 	registered = true
+[submodule "genoset"]
+	path = genoset
+	url = https://github.com/phaverty/genoset
+	shallow = true
+	registered = true
